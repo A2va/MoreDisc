@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ minecraft:jukebox run function more_disc:internal/play_music
+execute if entity @s[distance=..5] unless block ~ ~ ~ minecraft:jukebox positioned ^ ^ ^0.1 run function more_disc:internal/detect_jukebox_raycast

@@ -1,0 +1,9 @@
+{
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "block": {
+        "block": "minecraft:jukebox",
+        "nbt": "{RecordItem:{id:\"minecraft:music_disc_13\",tag:{display:{Name:'{\"text\":\"C418 - 13\"}'}}}}"
+      }
+    }
+  }
