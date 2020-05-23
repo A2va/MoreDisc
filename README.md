@@ -1,6 +1,6 @@
 # MoreDisc
 
-Minercraft version:1.16+
+Minercraft version: 1.16+
 
 This datapack add the possibility to have more disks, for this follow the instructions below
 If the datapack for some reason doesn't work anymore try these commands:
